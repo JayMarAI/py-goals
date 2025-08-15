@@ -1,0 +1,20 @@
+{
+    "goals": {
+        "goal1": [
+            {
+                "goal": "test",
+                "hours_planned": 10,
+                "hours_logged": 50,
+                "completed": true
+            }
+        ],
+        "goal2": [
+            {
+                "goal": "get ts done",
+                "hours_planned": 5,
+                "hours_logged": "10",
+                "completed": false
+            }
+        ]
+    }
+}
